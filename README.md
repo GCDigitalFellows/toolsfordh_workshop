@@ -1,9 +1,11 @@
-# Introduction to TEI (Text Encoding Initiative)
+# Tools for the Digital Humanities
 
 This workshop introduces basic tools and approaches to the Digital Humanities. 
 
 ## Credits
-This workshop was written by [Filipa Calado](https://github.com/gofilipa).
+This workshop was written by [Filipa
+Calado](https://github.com/gofilipa), based on an earlier workshop by
+Mary Catherine Kinniburgh.
 
 ## Workshops
 It was first taught at CUNY GC by Filipa Calado in the Fall of 2018, 2019 as a two hour in person workshop and Fall of 2020 as a two hour online workshop.
