@@ -1,5 +1,7 @@
 # Tools for the Digital Humanities
 
+Skip to [Frontmatter](frontmatter.md).
+
 This workshop introduces basic tools and approaches to the Digital Humanities. 
 
 ## Credits
@@ -23,3 +25,10 @@ Feedback was very good. Students thought the pace and content was effective.
 ## Needed/Desired Changes 
 More time to explore different projects. 
 
+## License
+
+Workshop leader: Filipa Calado, Graduate Center Digital Fellows
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).

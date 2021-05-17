@@ -1,5 +1,7 @@
 # Frontmatter
 
+Skip to [Workshop](ToolsofDH-Filipa.pptx).
+
 ## Abstract
 
 With the remarkable array of digital tools available, it can be difficult to determine which ones you’ll really need, particularly when you're in the research stage. Perhaps you only vaguely understand what "digital humanities" is. This workshop will give an overview of digital humanities methods and will address how you find the tools for you. We’ll discuss the genres and tools of DH from text analysis to geospatial mapping and review some of the many online resource directories and resources at The Graduate Center. Feel free to come with your project ideas and questions.
@@ -35,7 +37,14 @@ None.
 
  N/A
 
-
 ## Acknowledgements
 
 Filipa Calado, adadpted from an earlier workshop by Mary Catherine Kinniburgh
+
+## License
+
+Workshop leader: Filipa Calado, Graduate Center Digital Fellows
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
